@@ -37,6 +37,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "6ab09ddb-b425-40d7-9a37-211081396135"
+      }
+    },
+    "owner": "adityajunwals-team"
   }
 }
